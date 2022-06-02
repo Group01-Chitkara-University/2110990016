@@ -11,7 +11,7 @@ body{
     background-color: #FFF;
     
     display: block;
-    margin: 0 auto;
+    margin: 1 auto;
     
     border-radius: 10px;
     padding-bottom : 50px;
@@ -32,7 +32,7 @@ body{
 }
 
 .notification{
-    background-color: #f8d7da;
+    background-color: lightblue;
     display: none;
 }
 
